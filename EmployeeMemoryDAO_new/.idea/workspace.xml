@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="75b95689-3150-490d-a4fb-1e3fdea5e51e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/EmployeeMemoryDAO_new.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manifest.mf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nbproject/build-impl.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nbproject/genfiles.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nbproject/private/private.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nbproject/project.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nbproject/project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/dao/EmployeeDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/dao/EmployeeDAOMemoryImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/dao/EmployeeFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/model/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/test/EmployeeTestInteractive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NetworkThreading/NetworkThreading.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NetworkThreading/build.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NetworkThreading/manifest.mf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NetworkThreading/nbproject/build-impl.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NetworkThreading/nbproject/genfiles.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NetworkThreading/nbproject/private/private.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NetworkThreading/nbproject/project.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NetworkThreading/nbproject/project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NetworkThreading/src/com/example/client/NetworkClientMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NetworkThreading/src/com/example/client/RequestResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NetworkThreading/src/com/example/server/NetworkServerMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NetworkThreading/src/com/example/server/PriceRangeServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SingletonBanking/SingletonBanking.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Synchronized/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Synchronized/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Synchronized/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Synchronized/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Synchronized/Synchronized.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Synchronized/build.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Synchronized/manifest.mf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Synchronized/nbproject/build-impl.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Synchronized/nbproject/genfiles.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Synchronized/nbproject/private/private.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Synchronized/nbproject/project.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Synchronized/nbproject/project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Synchronized/out/production/Synchronized/com/example/PracticeThread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Synchronized/out/production/Synchronized/com/example/PurchasingAgent.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Synchronized/out/production/Synchronized/com/example/Shirt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Synchronized/out/production/Synchronized/com/example/Store.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Synchronized/out/production/Synchronized/com/example/SynchronizedMain.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Synchronized/src/com/example/PracticeThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Synchronized/src/com/example/PurchasingAgent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Synchronized/src/com/example/Shirt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Synchronized/src/com/example/Store.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Synchronized/src/com/example/SynchronizedMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab9-JDBC-practices-EmployeeDAOJDBC/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab9-JDBC-practices-EmployeeDAOJDBC/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab9-JDBC-practices-EmployeeDAOJDBC/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab9-JDBC-practices-EmployeeDAOJDBC/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab9-JDBC-practices-EmployeeDAOJDBC/JDBC-practices-EmployeeDAOJDBC.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab9-JDBC-practices-EmployeeDAOJDBC/build.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab9-JDBC-practices-EmployeeDAOJDBC/manifest.mf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab9-JDBC-practices-EmployeeDAOJDBC/nbproject/build-impl.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab9-JDBC-practices-EmployeeDAOJDBC/nbproject/genfiles.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab9-JDBC-practices-EmployeeDAOJDBC/nbproject/private/private.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab9-JDBC-practices-EmployeeDAOJDBC/nbproject/project.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab9-JDBC-practices-EmployeeDAOJDBC/nbproject/project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab9-JDBC-practices-EmployeeDAOJDBC/postgresql-42.7.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab9-JDBC-practices-EmployeeDAOJDBC/src/com/example/dao/DAOException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab9-JDBC-practices-EmployeeDAOJDBC/src/com/example/dao/EmployeeDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab9-JDBC-practices-EmployeeDAOJDBC/src/com/example/dao/EmployeeDAOFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab9-JDBC-practices-EmployeeDAOJDBC/src/com/example/dao/EmployeeDAOJDBCImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab9-JDBC-practices-EmployeeDAOJDBC/src/com/example/dao/EmployeeDAOMemoryImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab9-JDBC-practices-EmployeeDAOJDBC/src/com/example/model/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab9-JDBC-practices-EmployeeDAOJDBC/src/com/example/test/EmployeeTestInteractive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab9-JDBC-practices-SimpleJDBCExample/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab9-JDBC-practices-SimpleJDBCExample/.idea/libraries/lab9_JDBC_practices_SimpleJDBCExample.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab9-JDBC-practices-SimpleJDBCExample/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab9-JDBC-practices-SimpleJDBCExample/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab9-JDBC-practices-SimpleJDBCExample/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab9-JDBC-practices-SimpleJDBCExample/SimpleJDBCExample/build.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab9-JDBC-practices-SimpleJDBCExample/SimpleJDBCExample/manifest.mf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab9-JDBC-practices-SimpleJDBCExample/SimpleJDBCExample/nbproject/build-impl.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab9-JDBC-practices-SimpleJDBCExample/SimpleJDBCExample/nbproject/genfiles.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab9-JDBC-practices-SimpleJDBCExample/SimpleJDBCExample/nbproject/private/private.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab9-JDBC-practices-SimpleJDBCExample/SimpleJDBCExample/nbproject/project.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab9-JDBC-practices-SimpleJDBCExample/SimpleJDBCExample/nbproject/project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab9-JDBC-practices-SimpleJDBCExample/SimpleJDBCExample/src/com/example/SimpleJDBCExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab9-JDBC-practices-SimpleJDBCExample/lab9-JDBC-practices-SimpleJDBCExample.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab9-JDBC-practices-SimpleJDBCExample/out/production/lab9-JDBC-practices-SimpleJDBCExample/com/example/SimpleJDBCExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab9-JDBC-practices-SimpleJDBCExample/postgresql-42.7.3.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Transport" beforeDir="false" afterPath="$PROJECT_DIR$/../Transport" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2eEpMeII86sTmx9tewACRklU20m" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.EmployeeTestInteractive.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Olzhas/IdeaProjects/Synchronized&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Olzhas/IdeaProjects/EmployeeMemoryDAO/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Olzhas\IdeaProjects\EmployeeMemoryDAO_new\out\production\EmployeeMemoryDAO_new" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Olzhas\IdeaProjects\EmployeeMemoryDAO_new\out\production\EmployeeMemoryDAO_new\com" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="EmployeeTestInteractive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.test.EmployeeTestInteractive" />
+      <module name="EmployeeMemoryDAO_new" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="EmployeeMemoryDAO" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="EmployeeMemoryDAO" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.EmployeeTestInteractive" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.10-corretto-17.0.10-4caba194b151-5cd809f4" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="75b95689-3150-490d-a4fb-1e3fdea5e51e" name="Changes" comment="" />
+      <created>1711479547390</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1711479547390</updated>
+    </task>
+    <servers />
+  </component>
+</project>
